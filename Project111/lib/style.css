@@ -1,0 +1,21 @@
+#c1{
+  height: 300px;
+  width: 300px;
+  border: 3px solid black;
+  margin: 40px;
+  background-image: url(https://oir.mobi/uploads/posts/2021-06/1624554192_11-oir_mobi-p-luchi-solntsa-v-oblakakh-priroda-krasivo-f-14.jpg);
+}
+
+
+body{
+  background: #cbcbc4;
+  background-image: -webkit-radial-gradient(cover, rgb(146, 122, 236),#D1D1D1 );
+  background-image: -moz-radial-gradient(cover, #e8eaec, #b3b8c0);
+  background-image: -o-radial-gradient(cover, #e8eaec, #bcc0c7);
+  background-image: radial-gradient(cover, #e8eaec, #a4a8ae)
+}
+
+html{
+  min-height:100%;
+}
+
